@@ -1,2 +1,3 @@
 # pyside2-esempi
-Elenco di esempi di Pyside2
+Elenco di esempi con Pyside2
+Esempi che sono disponibili e modificabili

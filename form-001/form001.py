@@ -1,6 +1,7 @@
 from PySide2.QtWidgets import QApplication, QWidget
 import sys
 
+# versione di prova
 
 class Window(QWidget):
     def __init__(self):
